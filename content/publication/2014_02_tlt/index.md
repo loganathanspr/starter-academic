@@ -41,11 +41,11 @@ tags: ["cross-lingual parsing", "dependency transfer", "dependency parsing"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: http://tlt13.sfs.uni-tuebingen.de/tlt13-proceedings.pdf
 
-url_pdf: 'http://tlt13.sfs.uni-tuebingen.de/tlt13-proceedings.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

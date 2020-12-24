@@ -41,11 +41,11 @@ tags: ["multilingual parsing"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: https://ufal.mff.cuni.cz/pbml/102/art-ramasamy-marecek-zabokrtsky.pdf
 
-url_pdf: 'https://ufal.mff.cuni.cz/pbml/102/art-ramasamy-marecek-zabokrtsky.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

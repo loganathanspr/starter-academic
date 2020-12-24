@@ -41,11 +41,11 @@ tags: ["morphology", "unsupervised machine learning"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: https://www.aclweb.org/anthology/W12-3903.pdf
 
-url_pdf: 'https://www.aclweb.org/anthology/W12-3903.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

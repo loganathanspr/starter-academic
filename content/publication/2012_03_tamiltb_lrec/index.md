@@ -40,11 +40,11 @@ tags: ["treebanking", "annotation", "tamil"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: http://www.lrec-conf.org/proceedings/lrec2012/pdf/456_Paper.pdf
 
-url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2012/pdf/456_Paper.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: 'http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/download.html'
 url_poster: ''

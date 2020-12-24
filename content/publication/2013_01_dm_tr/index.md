@@ -45,11 +45,11 @@ tags: ["dependency parsing"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: http://ufal.mff.cuni.cz/techrep/tr49.pdf
 
-url_pdf: 'http://ufal.mff.cuni.cz/techrep/tr49.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

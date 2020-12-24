@@ -41,11 +41,11 @@ tags: ["machine translation", "statistical machine translation", "SMT", "morphol
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: https://www.aclweb.org/old_anthology/W/W12/W12-5611.pdf
 
-url_pdf: 'https://www.aclweb.org/old_anthology/W/W12/W12-5611.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: 'http://ufal.mff.cuni.cz/~ramasamy/parallel/html/#download'
 url_poster: ''

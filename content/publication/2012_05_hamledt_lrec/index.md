@@ -45,11 +45,11 @@ tags: ["treebanking", "annotation", "harmonization"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf
 
-url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
